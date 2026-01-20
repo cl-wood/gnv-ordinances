@@ -1,0 +1,2 @@
+* Housing Goal 3 indicator should include % of residents taht aren rent burdened
+* indicators in general should benchmark against "competitors", not just raw numbers. If we're going up a little but TLH is going up a lot that's a problem.
